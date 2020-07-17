@@ -1,2 +1,2 @@
-# PROJECT-21-BULLETS-AND-WALLS
-Post class project of class 21 about
+# p5.play-boilerplate
+Boiler plate for p5.play
